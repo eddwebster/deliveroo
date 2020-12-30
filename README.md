@@ -1,2 +1,2 @@
-# deliveroo
-deliveroo
+# Deliveroo
+Technical test and assignment for Deliveroo
